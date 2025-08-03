@@ -8,10 +8,10 @@
 ### 👨‍💻 About Me
 
 - 🔹 **Expert in:** C++, Python, Java (especially JavaFX & Swing)
-- 🔹 **Backend Developer:** Experience with Java, Python, and Node.js (MERN stack)
+- 🔹 **Backend Developer:** Experienced in building logic and server-side applications
 - 🔹 **Projects:**  
-  &nbsp;&nbsp;&nbsp;&nbsp;📦 Built a full-featured **Inventory Management System** for retail shops, marts, pharmacies, and small businesses  
-  &nbsp;&nbsp;&nbsp;&nbsp;☁️ Contributing to a **SaaS platform** that delivers practical business software
+  &nbsp;&nbsp;&nbsp;&nbsp;📦 Built a full-featured **Inventory Management System** for retail shops, marts, pharmacies, and businesses  
+  &nbsp;&nbsp;&nbsp;&nbsp;☁️ Contributing to a **SaaS platform** delivering practical business tools
 - 🔹 **AI Focus:** Strong interest in Artificial Intelligence and problem-solving through smart automation
 
 ---
@@ -24,9 +24,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swing-GUI-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend-Developer-critical?style=for-the-badge"/>
 </p>
 
 ---
@@ -53,3 +51,4 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
+
