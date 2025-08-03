@@ -1,43 +1,55 @@
-# 👋 Hi, I'm Abdullah Javed
-
-Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and building cool projects. 🚀
-
----
-
-## 🧰 Tech Stack
-
-- 💻 Languages: `Java`, `Python`, `JavaScript`, `C++`
-- 🌐 Web: `HTML`, `CSS`, `React`, `Node.js`, `Express`
-- 🛢️ Database: `MySQL`, `MongoDB`
-- ⚙️ Tools: `Git`, `VS Code`, `Postman`, `Figma`
-- 🧠 Learning: `Web Development`, `DSA`, `Game Dev (Blender, Unreal Engine)`
+<!-- Cool animated typing intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3FFFA1&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdullah+Javed;C%2B%2B+%7C+Python+%7C+Java+Expert;Java+GUI+Developer+with+Swing+%26+JavaFX;Backend+Developer+%7C+AI+Enthusiast;SaaS+Contributor+%7C+Inventory+System+Builder;Welcome+to+my+GitHub!+%F0%9F%8C%9F" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+### 👨‍💻 About Me
 
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Let's Connect
-
-- ✉️ Email: your-email@example.com
-- 💼 LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourusername)
-- 📹 YouTube: [YourYouTubeChannel](https://youtube.com/yourchannel)
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- 🔹 **Expert in:** C++, Python, Java (especially JavaFX & Swing)
+- 🔹 **Backend Developer:** Experience with Java, Python, and Node.js (MERN stack)
+- 🔹 **Projects:**  
+  &nbsp;&nbsp;&nbsp;&nbsp;📦 Built a full-featured **Inventory Management System** for retail shops, marts, pharmacies, and small businesses  
+  &nbsp;&nbsp;&nbsp;&nbsp;☁️ Contributing to a **SaaS platform** that delivers practical business software
+- 🔹 **AI Focus:** Strong interest in Artificial Intelligence and problem-solving through smart automation
 
 ---
 
-## 🔭 Current Goals
+### 🧰 Languages & Tools
 
-- 💡 Building full-stack web apps
-- 🧠 Deepening DSA knowledge
-- 🎥 Creating content/tutorials
-- 🎮 Exploring game development with Unreal Engine & Blender
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swing-GUI-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
 
 ---
 
-⭐️ *Thanks for visiting! Don't forget to leave a ⭐️ on your favorite repo!*
+### 📈 My GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abdullahjaved-82&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahjaved-82&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahjaved-82&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Javed-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdullah-javed-8468a7343)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
