@@ -15,7 +15,7 @@
 
 ## $\color{#00C896}{\textsf{Who I Am}}$
 
-Software Engineering student at **COMSATS University Islamabad**, currently interning on the Certificate System & Admin Dashboard for **Cyber Community Pakistan**. I run **Cloudora**, my own full-stack + AI dev studio, and I'm working through Andrew Ng's Machine Learning Specialization — implementing gradient descent, vectorization, and feature engineering from scratch before touching the high-level libraries.
+Software Engineering student at **COMSATS University Islamabad**, currently interning at **Spurvance Labs**. I run **Cloudora**, my own full-stack + AI dev studio, and I'm working through Andrew Ng's Machine Learning Specialization — implementing gradient descent, vectorization, and feature engineering from scratch before touching the high-level libraries.
 
 <br/>
 
