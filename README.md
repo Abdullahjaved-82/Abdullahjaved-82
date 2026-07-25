@@ -1,65 +1,108 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3FFFA1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abdullah+Javed;Software+Engineering+Student+%40+COMSATS;Full-Stack+%2B+AI%2FML+Developer;Building+Cloudora" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdullahjaved-82&label=Profile+Views&color=3FFFA1&style=flat" alt="Profile views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:3FFFA1&height=220&section=header&text=Abdullah%20Javed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20AI%2FML%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-## About
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3FFFA1&center=true&vCenter=true&width=600&lines=Building+Cloudora;Full-Stack+Developer;Learning+Machine+Learning+in+Public;COMSATS+University+Islamabad" alt="Typing SVG"/>
 
-Software Engineering student at COMSATS University Islamabad, currently interning on the Certificate System & Admin Dashboard for Cyber Community Pakistan. I also build full-stack and AI-driven products under my own studio, **Cloudora**.
+<br/>
 
-Right now I'm deep in Andrew Ng's Machine Learning Specialization, implementing cost functions, gradient descent, and vectorized NumPy operations by hand before reaching for higher-level libraries — you can follow that progress in the [ml-specialization-notes](https://github.com/Abdullahjaved-82/ml-specialization-notes) repo.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-javed-8468a7343)
+[![Profile Views](https://komarev.com/ghpvc/?username=Abdullahjaved-82&color=3FFFA1&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Abdullahjaved-82)
 
-## What I build
+</div>
 
-**Full-stack & product work**
-- Al Ghani Store — retail/inventory management system
-- CollabSphere — collaboration platform
-- AI Lead Automation System — n8n-driven lead generation and outreach pipeline
+<br/>
 
-**AI / ML projects**
-- AI Code Linter — automated code quality checks using NLP/LLM tooling
-- Fake News Detector — text classification model
-- AGRI_PULSE — AI-powered agriculture app built in Flutter (~4,000 lines) — [repo](https://github.com/Abdullahjaved-82/agri_pulse)
+## About Me
 
-**Currently learning in public**
-- [ml-specialization-notes](https://github.com/Abdullahjaved-82/ml-specialization-notes) — hand-built implementations of linear regression, gradient descent, feature scaling, and polynomial regression from Andrew Ng's ML Specialization
+Software Engineering student at **COMSATS University Islamabad**, currently interning on the Certificate System & Admin Dashboard for **Cyber Community Pakistan**. I build full-stack products and AI-driven tools under my own studio, **Cloudora**, and I'm currently working through Andrew Ng's Machine Learning Specialization — implementing gradient descent, vectorized NumPy, and feature engineering by hand before touching high-level libraries.
 
-## Stack
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+## What I'm Building
 
-## GitHub stats
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abdullahjaved-82&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahjaved-82&theme=radical&hide_border=true" />
-</p>
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahjaved-82&layout=compact&theme=radical&hide_border=true" />
-</p>
+### Products & Platforms
+**Al Ghani Store**
+Retail inventory management system
 
-## Connect
+**CollabSphere**
+Real-time collaboration platform
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-javed-8468a7343)
+**AI Lead Automation System**
+n8n-driven lead generation & outreach pipeline
+
+</td>
+<td width="50%" valign="top">
+
+### AI / ML Projects
+**AGRI_PULSE** — [view repo →](https://github.com/Abdullahjaved-82/agri_pulse)
+AI-powered agriculture app, Flutter, ~4,000 lines
+
+**Fake News Detector**
+NLP text classification model
+
+**AI Code Linter**
+LLM-assisted automated code review
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### Currently learning in public
+
+<a href="https://github.com/Abdullahjaved-82/ml-specialization-notes">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullahjaved-82&repo=ml-specialization-notes&theme=radical&hide_border=true&title_color=3FFFA1" />
+</a>
+
+</div>
+
+<br/>
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,react,nextjs,nodejs,express,flutter,docker,postgres,supabase,git,figma&theme=dark" />
+
+</div>
+
+<br/>
+
+## GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdullahjaved-82&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahjaved-82&theme=radical&hide_border=true"/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahjaved-82&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
+<br/>
+
+## Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Abdullahjaved-82&theme=radical&no-frame=true&row=1&column=6"/>
+</div>
+
+<br/>
+
+## Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullahjaved-82&theme=react-dark&hide_border=true"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FFFA1,100:1e3c72&height=100&section=footer" width="100%"/>
+</div>
