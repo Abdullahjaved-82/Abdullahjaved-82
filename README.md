@@ -1,54 +1,65 @@
-<!-- Cool animated typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3FFFA1&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdullah+Javed;C%2B%2B+%7C+Python+%7C+Java+Expert;Java+GUI+Developer+with+Swing+%26+JavaFX;Backend+Developer+%7C+AI+Enthusiast;SaaS+Contributor+%7C+Inventory+System+Builder;Welcome+to+my+GitHub!+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3FFFA1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abdullah+Javed;Software+Engineering+Student+%40+COMSATS;Full-Stack+%2B+AI%2FML+Developer;Building+Cloudora" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdullahjaved-82&label=Profile+Views&color=3FFFA1&style=flat" alt="Profile views" />
+</p>
 
-### 👨‍💻 About Me
+## About
 
-- 🔹 **Expert in:** C++, Python, Java (especially JavaFX & Swing)
-- 🔹 **Backend Developer:** Experienced in building logic and server-side applications
-- 🔹 **Projects:**  
-  &nbsp;&nbsp;&nbsp;&nbsp;📦 Built a full-featured **Inventory Management System** for retail shops, marts, pharmacies, and businesses  
-  &nbsp;&nbsp;&nbsp;&nbsp;☁️ Contributing to a **SaaS platform** delivering practical business tools
-- 🔹 **AI Focus:** Strong interest in Artificial Intelligence and problem-solving through smart automation
+Software Engineering student at COMSATS University Islamabad, currently interning on the Certificate System & Admin Dashboard for Cyber Community Pakistan. I also build full-stack and AI-driven products under my own studio, **Cloudora**.
 
----
+Right now I'm deep in Andrew Ng's Machine Learning Specialization, implementing cost functions, gradient descent, and vectorized NumPy operations by hand before reaching for higher-level libraries — you can follow that progress in the [ml-specialization-notes](https://github.com/Abdullahjaved-82/ml-specialization-notes) repo.
 
-### 🧰 Languages & Tools
+## What I build
+
+**Full-stack & product work**
+- Al Ghani Store — retail/inventory management system
+- CollabSphere — collaboration platform
+- AI Lead Automation System — n8n-driven lead generation and outreach pipeline
+
+**AI / ML projects**
+- AI Code Linter — automated code quality checks using NLP/LLM tooling
+- Fake News Detector — text classification model
+- AGRI_PULSE — AI-powered agriculture app built in Flutter (~4,000 lines) — [repo](https://github.com/Abdullahjaved-82/agri_pulse)
+
+**Currently learning in public**
+- [ml-specialization-notes](https://github.com/Abdullahjaved-82/ml-specialization-notes) — hand-built implementations of linear regression, gradient descent, feature scaling, and polynomial regression from Andrew Ng's ML Specialization
+
+## Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swing-GUI-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend-Developer-critical?style=for-the-badge"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
----
-
-### 📈 My GitHub Stats
+## GitHub stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abdullahjaved-82&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahjaved-82&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abdullahjaved-82&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahjaved-82&theme=radical&hide_border=true" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahjaved-82&layout=compact&theme=radical" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahjaved-82&layout=compact&theme=radical&hide_border=true" />
 </p>
 
----
+## Connect
 
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Javed-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdullah-javed-8468a7343)
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-javed-8468a7343)
