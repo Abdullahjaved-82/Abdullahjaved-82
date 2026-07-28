@@ -13,37 +13,37 @@
 
 <br/>
 
-## $\color{#00C896}{\textsf{Who I Am}}$
+## Who I Am
 
 Software Engineering student at **COMSATS University Islamabad**, currently interning at **Spurvance Labs**. I run **Cloudora**, my own full-stack + AI dev studio, and I'm working through Andrew Ng's Machine Learning Specialization — implementing gradient descent, vectorization, and feature engineering from scratch before touching the high-level libraries.
 
 <br/>
 
-## $\color{#00C896}{\textsf{What I'm Building}}$
+## What I'm Building
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**🏪 Al Ghani Store**
+**Al Ghani Store**
 Retail inventory management system
 
-**🔗 CollabSphere**
+**CollabSphere**
 Real-time collaboration platform
 
-**🤖 AI Lead Automation System**
+**AI Lead Automation System**
 n8n-driven lead generation & outreach pipeline
 
 </td>
 <td width="50%" valign="top">
 
-**🌾 AGRI_PULSE** — [repo →](https://github.com/Abdullahjaved-82/agri_pulse)
+**AGRI_PULSE** — [repo →](https://github.com/Abdullahjaved-82/agri_pulse)
 AI-powered agriculture app, Flutter, ~4,000 lines
 
-**📰 Fake News Detector**
+**Fake News Detector**
 NLP text classification model
 
-**🧹 AI Code Linter**
+**AI Code Linter**
 LLM-assisted automated code review
 
 </td>
@@ -62,7 +62,7 @@ LLM-assisted automated code review
 
 <br/>
 
-## $\color{#00C896}{\textsf{Tech Stack}}$
+## Tech Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,react,nextjs,nodejs,express,flutter,docker,postgres,supabase,git&theme=dark" />
@@ -70,17 +70,17 @@ LLM-assisted automated code review
 
 <br/>
 
-## $\color{#00C896}{\textsf{GitHub Analytics}}$
+## GitHub Analytics
 
 <div align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdullahjaved-82&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahjaved-82&theme=chartreuse-dark&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=Abdullahjaved-82&theme=chartreuse-dark&hide_border=true"/>
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahjaved-82&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 </div>
 
 <br/>
 
-## $\color{#00C896}{\textsf{Trophies}}$
+## Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Abdullahjaved-82&theme=algolia&no-frame=true&row=1&column=6"/>
@@ -88,7 +88,7 @@ LLM-assisted automated code review
 
 <br/>
 
-## $\color{#00C896}{\textsf{Contribution Snake}}$
+## Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Abdullahjaved-82/Abdullahjaved-82/output/github-contribution-grid-snake-dark.svg" />
