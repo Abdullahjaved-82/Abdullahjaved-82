@@ -19,6 +19,23 @@ Software Engineering student at **COMSATS University Islamabad**, currently inte
 
 <br/>
 
+```
+$ whoami
+abdullah@cloudora:~$ full-stack developer, ml learner, builder
+
+$ cat currently.txt
+> shipping Cloudora products
+> reimplementing ML Specialization by hand, no shortcuts
+> open to backend / AI internships
+
+$ git log --oneline -3
+* debug the bug, ship the fix
+* learn the theory, then write the code myself
+* repeat
+```
+
+<br/>
+
 ## What I'm Building
 
 <table width="100%">
@@ -52,11 +69,7 @@ LLM-assisted automated code review
 
 <div align="center">
 
-**Learning in public right now:**
-
-<a href="https://github.com/Abdullahjaved-82/ml-specialization-notes">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdullahjaved-82&repo=ml-specialization-notes&theme=chartreuse-dark&hide_border=true&title_color=00C896" />
-</a>
+**Learning in public right now:** [ml-specialization-notes →](https://github.com/Abdullahjaved-82/ml-specialization-notes)
 
 </div>
 
@@ -70,20 +83,14 @@ LLM-assisted automated code review
 
 <br/>
 
-## GitHub Analytics
+## GitHub Activity
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdullahjaved-82&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=Abdullahjaved-82&theme=chartreuse-dark&hide_border=true"/>
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahjaved-82&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-</div>
 
-<br/>
+![Profile views](https://komarev.com/ghpvc/?username=Abdullahjaved-82&style=flat-square&color=00C896)
+![Followers](https://img.shields.io/github/followers/Abdullahjaved-82?style=flat-square&color=00C896&label=Followers)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Abdullahjaved-82&label=Public%20Repos&query=$.public_repos&color=00C896&style=flat-square)
 
-## Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Abdullahjaved-82&theme=algolia&no-frame=true&row=1&column=6"/>
 </div>
 
 <br/>
