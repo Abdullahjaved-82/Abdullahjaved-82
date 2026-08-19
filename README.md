@@ -43,32 +43,32 @@ $ git log --oneline -3
 <tr>
 <td width="50%" valign="top">
 
-**[AGRI_PULSE](https://github.com/Abdullahjaved-82/agri_pulse)**<br/>
-AI-powered agriculture app · Flutter · ~4,000 lines<br/>
-Handles crop diagnosis and advisory for users with unreliable connectivity.
-
-**[CollabSphere](https://github.com/Abdullahjaved-82/collabsphere) · [live →](https://collabspheres.vercel.app)**<br/>
-Jira-style task management web app<br/>
-Full-stack project/task tracking with boards, assignments, and status flow.
-
-**[Anti-Screen-Capture System](https://github.com/Abdullahjaved-82/anti-screen-capture-system)**<br/>
-Information security project<br/>
-Detects and blocks screen capture attempts to protect sensitive on-screen data.
-
-</td>
-<td width="50%" valign="top">
+**[ML Specialization Notes](https://github.com/Abdullahjaved-82/ml-specialization-notes)**<br/>
+Hand-rebuilt implementations of Andrew Ng's ML Specialization<br/>
+Every lab — gradient descent, regularization, logistic regression — re-derived from scratch, not copy-pasted.
 
 **[Real Estate Price Predictor](https://github.com/Abdullahjaved-82/real-estate-price-predictor)**<br/>
 Machine learning project<br/>
 Predicts property prices from listing features using a trained regression model.
 
+**[Fake News Detector](https://github.com/Abdullahjaved-82/FakenewsDetector)**<br/>
+NLP text classification model<br/>
+Trained a classifier to flag likely-fabricated news articles.
+
+</td>
+<td width="50%" valign="top">
+
+**[AGRI_PULSE](https://github.com/Abdullahjaved-82/agri_pulse)**<br/>
+AI-powered agriculture app · Flutter · ~4,000 lines<br/>
+Handles crop diagnosis and advisory for users with unreliable connectivity.
+
 **[Lead Automation](https://github.com/Abdullahjaved-82/lead-automation)**<br/>
 AI-driven outreach pipeline<br/>
 Finds leads and sends personalized outreach emails automatically.
 
-**Al Ghani Store** · [live →](https://alghani.store)<br/>
-Retail inventory management system<br/>
-Tracks stock, sales, and reorder points for a live retail business. *(private repo)*
+**[AI Code Linter](https://github.com/Abdullahjaved-82/AI-code-Linter)**<br/>
+LLM-assisted automated code review<br/>
+Uses an LLM to flag code issues beyond what static linters catch.
 
 </td>
 </tr>
@@ -76,7 +76,7 @@ Tracks stock, sales, and reorder points for a live retail business. *(private re
 
 <div align="center">
 
-**More projects:** [Sudoku Solver (DSA)](https://github.com/Abdullahjaved-82/Sudoku_game_in_web) · [AI Code Linter](https://github.com/Abdullahjaved-82/AI-code-Linter) · [Fake News Detector](https://github.com/Abdullahjaved-82/FakenewsDetector) · [Electricity Billing System (Java Swing)](https://github.com/Abdullahjaved-82/Electricity-Billing-System)
+**Also shipped:** [CollabSphere](https://github.com/Abdullahjaved-82/collabsphere) ([live](https://collabspheres.vercel.app)) · [Al Ghani Store](https://alghani.store) *(live, private repo)* · [Anti-Screen-Capture System](https://github.com/Abdullahjaved-82/anti-screen-capture-system) · [Sudoku Solver](https://github.com/Abdullahjaved-82/Sudoku_game_in_web) · [Electricity Billing System](https://github.com/Abdullahjaved-82/Electricity-Billing-System)
 
 </div>
 
