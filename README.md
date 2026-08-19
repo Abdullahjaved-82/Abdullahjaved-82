@@ -7,7 +7,8 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-javed-8468a7343)
-[![Profile Views](https://komarev.com/ghpvc/?username=Abdullahjaved-82&color=00C896&style=for-the-badge&label=VIEWS)](https://github.com/Abdullahjaved-82)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahjavec@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white)](https://abdullahjaved.site)
 
 </div>
 
@@ -42,26 +43,32 @@ $ git log --oneline -3
 <tr>
 <td width="50%" valign="top">
 
+**[AGRI_PULSE →](https://github.com/Abdullahjaved-82/agri_pulse)**
+AI-powered agriculture app · Flutter · ~4,000 lines
+Handles crop diagnosis and advisory for users with unreliable connectivity.
+
 **Al Ghani Store**
 Retail inventory management system
-
-**CollabSphere**
-Real-time collaboration platform
+Tracks stock, sales, and reorder points for a live retail business.
 
 **AI Lead Automation System**
 n8n-driven lead generation & outreach pipeline
+Automates prospect discovery and first-touch outreach end to end.
 
 </td>
 <td width="50%" valign="top">
 
-**AGRI_PULSE** — [repo →](https://github.com/Abdullahjaved-82/agri_pulse)
-AI-powered agriculture app, Flutter, ~4,000 lines
+**[ML Specialization Notes →](https://github.com/Abdullahjaved-82/ml-specialization-notes)**
+Hand-rebuilt implementations of Andrew Ng's ML Specialization
+Every lab re-derived and debugged from scratch, not copy-pasted.
+
+**CollabSphere**
+Real-time collaboration platform
+Live document editing and presence, built on WebSockets.
 
 **Fake News Detector**
 NLP text classification model
-
-**AI Code Linter**
-LLM-assisted automated code review
+Trained a classifier to flag likely-fabricated news articles.
 
 </td>
 </tr>
@@ -69,7 +76,7 @@ LLM-assisted automated code review
 
 <div align="center">
 
-**Learning in public right now:** [ml-specialization-notes →](https://github.com/Abdullahjaved-82/ml-specialization-notes)
+*Repo links go live as projects are made public — ask if you want early access to any of these.*
 
 </div>
 
@@ -87,7 +94,6 @@ LLM-assisted automated code review
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=Abdullahjaved-82&style=flat-square&color=00C896)
 ![Followers](https://img.shields.io/github/followers/Abdullahjaved-82?style=flat-square&color=00C896&label=Followers)
 ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Abdullahjaved-82&label=Public%20Repos&query=$.public_repos&color=00C896&style=flat-square)
 
