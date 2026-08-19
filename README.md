@@ -43,32 +43,32 @@ $ git log --oneline -3
 <tr>
 <td width="50%" valign="top">
 
-**[AGRI_PULSE →](https://github.com/Abdullahjaved-82/agri_pulse)**
-AI-powered agriculture app · Flutter · ~4,000 lines
+**[AGRI_PULSE](https://github.com/Abdullahjaved-82/agri_pulse)**<br/>
+AI-powered agriculture app · Flutter · ~4,000 lines<br/>
 Handles crop diagnosis and advisory for users with unreliable connectivity.
 
-**Al Ghani Store**
-Retail inventory management system
-Tracks stock, sales, and reorder points for a live retail business.
+**[CollabSphere](https://github.com/Abdullahjaved-82/collabsphere) · [live →](https://collabspheres.vercel.app)**<br/>
+Jira-style task management web app<br/>
+Full-stack project/task tracking with boards, assignments, and status flow.
 
-**AI Lead Automation System**
-n8n-driven lead generation & outreach pipeline
-Automates prospect discovery and first-touch outreach end to end.
+**[Anti-Screen-Capture System](https://github.com/Abdullahjaved-82/anti-screen-capture-system)**<br/>
+Information security project<br/>
+Detects and blocks screen capture attempts to protect sensitive on-screen data.
 
 </td>
 <td width="50%" valign="top">
 
-**[ML Specialization Notes →](https://github.com/Abdullahjaved-82/ml-specialization-notes)**
-Hand-rebuilt implementations of Andrew Ng's ML Specialization
-Every lab re-derived and debugged from scratch, not copy-pasted.
+**[Real Estate Price Predictor](https://github.com/Abdullahjaved-82/real-estate-price-predictor)**<br/>
+Machine learning project<br/>
+Predicts property prices from listing features using a trained regression model.
 
-**CollabSphere**
-Real-time collaboration platform
-Live document editing and presence, built on WebSockets.
+**[Lead Automation](https://github.com/Abdullahjaved-82/lead-automation)**<br/>
+AI-driven outreach pipeline<br/>
+Finds leads and sends personalized outreach emails automatically.
 
-**Fake News Detector**
-NLP text classification model
-Trained a classifier to flag likely-fabricated news articles.
+**Al Ghani Store** · [live →](https://alghani.store)<br/>
+Retail inventory management system<br/>
+Tracks stock, sales, and reorder points for a live retail business. *(private repo)*
 
 </td>
 </tr>
@@ -76,7 +76,7 @@ Trained a classifier to flag likely-fabricated news articles.
 
 <div align="center">
 
-*Repo links go live as projects are made public — ask if you want early access to any of these.*
+**More projects:** [Sudoku Solver (DSA)](https://github.com/Abdullahjaved-82/Sudoku_game_in_web) · [AI Code Linter](https://github.com/Abdullahjaved-82/AI-code-Linter) · [Fake News Detector](https://github.com/Abdullahjaved-82/FakenewsDetector) · [Electricity Billing System (Java Swing)](https://github.com/Abdullahjaved-82/Electricity-Billing-System)
 
 </div>
 
