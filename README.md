@@ -76,7 +76,7 @@ Uses an LLM to flag code issues beyond what static linters catch.
 
 <div align="center">
 
-**Also shipped:** [CollabSphere](https://github.com/Abdullahjaved-82/collabsphere) ([live](https://collabspheres.vercel.app)) · [Al Ghani Store](https://alghani.store) *(live, private repo)* · [Anti-Screen-Capture System](https://github.com/Abdullahjaved-82/anti-screen-capture-system) · [Sudoku Solver](https://github.com/Abdullahjaved-82/Sudoku_game_in_web) · [Electricity Billing System](https://github.com/Abdullahjaved-82/Electricity-Billing-System)
+**Also shipped:** [CollabSphere](https://github.com/Abdullahjaved-82/collabsphere) ([live](https://collabspheres.vercel.app)) · [Al Ghani Store](https://alghanimart.vercel.app) *(live, private repo)* · [Anti-Screen-Capture System](https://github.com/Abdullahjaved-82/anti-screen-capture-system) · [Sudoku Solver](https://github.com/Abdullahjaved-82/Sudoku_game_in_web) · [Electricity Billing System](https://github.com/Abdullahjaved-82/Electricity-Billing-System)
 
 </div>
 
