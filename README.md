@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-javed-8468a7343)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahjavec@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white)](https://abdullahjaved.site)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdulllah_javed)
 
 </div>
 
@@ -20,20 +21,9 @@ Software Engineering student at **COMSATS University Islamabad**, currently inte
 
 <br/>
 
-```
-$ whoami
-abdullah@cloudora:~$ full-stack developer, ml learner, builder
-
-$ cat currently.txt
-> shipping Cloudora products
-> reimplementing ML Specialization by hand, no shortcuts
-> open to backend / AI internships
-
-$ git log --oneline -3
-* debug the bug, ship the fix
-* learn the theory, then write the code myself
-* repeat
-```
+<div align="center">
+<img src="./assets/hero/portrait-scan.svg" alt="Abdullah Javed — live scan" width="100%">
+</div>
 
 <br/>
 
@@ -85,7 +75,11 @@ Uses an LLM to flag code issues beyond what static linters catch.
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,react,nextjs,nodejs,express,flutter,docker,postgres,supabase,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,react,nextjs,nodejs,express,flutter,docker,postgres,supabase,git,tensorflow,sklearn&theme=dark" />
+
+<br/><br/>
+
+<sub>Also building with <strong>Java Swing</strong> and <strong>JavaFX</strong> for desktop UIs — not yet in the icon set above.</sub>
 </div>
 
 <br/>
