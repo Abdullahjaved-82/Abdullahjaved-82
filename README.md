@@ -79,7 +79,6 @@ Uses an LLM to flag code issues beyond what static linters catch.
 
 <br/><br/>
 
-<sub>Also building with <strong>Java Swing</strong> and <strong>JavaFX</strong> for desktop UIs — not yet in the icon set above.</sub>
 </div>
 
 <br/>
