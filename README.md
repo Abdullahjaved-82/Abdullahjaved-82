@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c896&height=230&section=header&text=ABDULLAH%20JAVED&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%C2%B7%20AI%2FML%20Engineer&descAlignY=52&descSize=17&fontAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=00C896&center=true&vCenter=true&width=650&lines=Co-Founder+%40+Cloudora+Tech;Full+Stack+Engineer+%40+Spurvance+Labs;Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+GenAI;Learning+ML+the+Hard+Way+-+by+Hand" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=00C896&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer+%40+Spurvance+Labs;Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+GenAI;Learning+ML+the+Hard+Way+-+by+Hand" />
 
 <br/>
 
@@ -17,9 +17,15 @@
 
 ## About Me
 
-Software Engineering student at **COMSATS University Islamabad** (2024 – 2028) and a software engineer working across **machine learning, generative AI, and full-stack development**. I co-founded **Cloudora Tech**, a software studio building web products, and I'm currently a Full Stack Engineer at **Spurvance Labs**.
+I'm an **AI/ML and Full-Stack Engineer** and a Software Engineering student at **COMSATS University Islamabad** (2024 – 2028). I build AI-powered applications and scalable software, and I like turning complex problems into practical, production-oriented solutions. I'm currently a Full Stack Engineer at **Spurvance Labs**, and I previously worked as an AI Engineer at **Xeven Solutions**.
 
-On the ML side I'm working through Andrew Ng's Machine Learning Specialization, implementing gradient descent, regularization, and logistic regression from scratch before reaching for high-level libraries. I like turning messy problems into practical, production-oriented systems.
+**What I can do**
+
+- **AI / ML:** build machine learning pipelines, neural networks, and deep learning models; work with NLP, transformer-based models, and computer vision
+- **Generative AI:** prompt engineering, LLM-powered features, and AI agents and agent-based workflows
+- **Full-stack:** backend architecture, REST APIs, databases, and web and mobile applications, from design through deployment
+
+I'm also working through Andrew Ng's Machine Learning Specialization, implementing gradient descent, regularization, and logistic regression from scratch before reaching for high-level libraries.
 
 Open to collaborating on AI/ML, GenAI, and full-stack projects.
 
@@ -33,14 +39,14 @@ Open to collaborating on AI/ML, GenAI, and full-stack projects.
 
 ## Experience
 
-**Co-Founder & Software Engineer — Cloudora Tech** · June 2025 – Present<br/>
-Software startup delivering web and software products. Shipped an e-commerce grocery store with a seller dashboard, product management, cart, and secure checkout. Now exploring SaaS and AI-driven solutions.
-
 **Full Stack Engineer — Spurvance Labs** · July 2026 – Present<br/>
 Architected and built a full-stack certificate management system, including certificate design, generation, and validation workflows, backed by scalable services and REST APIs.
 
 **Artificial Intelligence Engineer — Xeven Solutions** · April 2026 – July 2026<br/>
 Researched AI/ML techniques and tools, worked on prompt engineering for more reliable AI interactions, explored AI agents and agent-based workflows, and supported AI/ML projects through experimentation and implementation.
+
+**Software Engineer — Cloudora Tech** · June 2025 – Present<br/>
+Software solutions startup building web and software products. Delivered its first project, an e-commerce grocery store with a seller dashboard, product management, shopping cart, and secure checkout. Now exploring SaaS and AI-driven solutions.
 
 <br/>
 
