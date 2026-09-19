@@ -48,14 +48,6 @@ Researched AI/ML techniques and tools, worked on prompt engineering for more rel
 **Software Engineer — Cloudora Tech** · June 2025 – Present<br/>
 Software solutions startup building web and software products. Delivered its first project, an e-commerce grocery store with a seller dashboard, product management, shopping cart, and secure checkout. Now exploring SaaS and AI-driven solutions.
 
-<br/>
-
-## Education & Certifications
-
-**Bachelor of Software Engineering** — COMSATS University Islamabad · Feb 2024 – Jan 2028
-
-- Supervised Machine Learning: Regression and Classification
-- AI For Everyone
 
 <br/>
 
