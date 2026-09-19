@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c896&height=230&section=header&text=ABDULLAH%20JAVED&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%C2%B7%20AI%2FML%20Engineer&descAlignY=52&descSize=17&fontAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=00C896&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer+%40+Spurvance+Labs;Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+GenAI;Learning+ML+the+Hard+Way+-+by+Hand" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=00C896&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%C2%B7+Full-Stack+Engineer;Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+GenAI;Learning+ML+the+Hard+Way+-+by+Hand" />
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm an **AI/ML and Full-Stack Engineer** and a Software Engineering student at **COMSATS University Islamabad** (2024 – 2028). I build AI-powered applications and scalable software, and I like turning complex problems into practical, production-oriented solutions. I'm currently a Full Stack Engineer at **Spurvance Labs**, and I previously worked as an AI Engineer at **Xeven Solutions**.
+I'm an **AI/ML and Full-Stack Engineer** and a Software Engineering student at **COMSATS University Islamabad** (2024 – 2028). I build AI-powered applications and scalable software, and I like turning complex problems into practical, production-oriented solutions. I've worked as a Full Stack Engineer at **Spurvance Labs** and as an AI Engineer at **Xeven Solutions**, and I build products at **Cloudora Tech**.
 
 **What I can do**
 
@@ -39,7 +39,7 @@ Open to collaborating on AI/ML, GenAI, and full-stack projects.
 
 ## Experience
 
-**Full Stack Engineer — Spurvance Labs** · July 2026 – Present<br/>
+**Full Stack Engineer — Spurvance Labs** · July 2026 – September 2026<br/>
 Architected and built a full-stack certificate management system, including certificate design, generation, and validation workflows, backed by scalable services and REST APIs.
 
 **Artificial Intelligence Engineer — Xeven Solutions** · April 2026 – July 2026<br/>
