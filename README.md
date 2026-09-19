@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c896&height=230&section=header&text=ABDULLAH%20JAVED&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20AI%2FML%20Engineer%20in%20training&descAlignY=52&descSize=17&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c896&height=230&section=header&text=ABDULLAH%20JAVED&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%C2%B7%20AI%2FML%20Engineer&descAlignY=52&descSize=17&fontAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=00C896&center=true&vCenter=true&width=650&lines=Founder+%40+Cloudora;Software+Engineering+%40+COMSATS;Shipping+Full-Stack+Products;Learning+ML+the+Hard+Way+-+by+Hand" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=00C896&center=true&vCenter=true&width=650&lines=Co-Founder+%40+Cloudora+Tech;Full+Stack+Engineer+%40+Spurvance+Labs;Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+GenAI;Learning+ML+the+Hard+Way+-+by+Hand" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-javed-8468a7343)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullahjavec@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mabdullahjaved.82@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white)](https://abdullahjaved.site)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdulllah_javed)
 
@@ -15,15 +15,110 @@
 
 <br/>
 
-## Who I Am
+## About Me
 
-Software Engineering student at **COMSATS University Islamabad**, currently interning at **Spurvance Labs**. I run **Cloudora**, my own full-stack + AI dev studio, and I'm working through Andrew Ng's Machine Learning Specialization — implementing gradient descent, vectorization, and feature engineering from scratch before touching the high-level libraries.
+Software Engineering student at **COMSATS University Islamabad** (2024 – 2028) and a software engineer working across **machine learning, generative AI, and full-stack development**. I co-founded **Cloudora Tech**, a software studio building web products, and I'm currently a Full Stack Engineer at **Spurvance Labs**.
+
+On the ML side I'm working through Andrew Ng's Machine Learning Specialization, implementing gradient descent, regularization, and logistic regression from scratch before reaching for high-level libraries. I like turning messy problems into practical, production-oriented systems.
+
+Open to collaborating on AI/ML, GenAI, and full-stack projects.
 
 <br/>
 
 <div align="center">
 <img src="./assets/hero/portrait-scan.svg" alt="Abdullah Javed — live scan" width="100%">
 </div>
+
+<br/>
+
+## Experience
+
+**Co-Founder & Software Engineer — Cloudora Tech** · June 2025 – Present<br/>
+Software startup delivering web and software products. Shipped an e-commerce grocery store with a seller dashboard, product management, cart, and secure checkout. Now exploring SaaS and AI-driven solutions.
+
+**Full Stack Engineer — Spurvance Labs** · July 2026 – Present<br/>
+Architected and built a full-stack certificate management system, including certificate design, generation, and validation workflows, backed by scalable services and REST APIs.
+
+**Artificial Intelligence Engineer — Xeven Solutions** · April 2026 – July 2026<br/>
+Researched AI/ML techniques and tools, worked on prompt engineering for more reliable AI interactions, explored AI agents and agent-based workflows, and supported AI/ML projects through experimentation and implementation.
+
+<br/>
+
+## Education & Certifications
+
+**Bachelor of Software Engineering** — COMSATS University Islamabad · Feb 2024 – Jan 2028
+
+- Supervised Machine Learning: Regression and Classification
+- AI For Everyone
+
+<br/>
+
+## Tech Stack
+
+<table>
+<tr>
+<td width="20%"><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Frontend & Mobile</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-00C896?style=for-the-badge" />
+</td>
+</tr>
+<tr>
+<td><b>Databases & ORM</b></td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>AI / ML</b></td>
+<td>
+<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-00C896?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-203A43?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_Agents-0F2027?style=for-the-badge" />
+<br/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Tools & Deployment</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -72,17 +167,6 @@ Uses an LLM to flag code issues beyond what static linters catch.
 
 <br/>
 
-## Tech Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,react,nextjs,nodejs,express,flutter,docker,postgres,supabase,git,tensorflow,sklearn&theme=dark" />
-
-<br/><br/>
-
-</div>
-
-<br/>
-
 ## GitHub Activity
 
 <div align="center">
@@ -93,8 +177,6 @@ Uses an LLM to flag code issues beyond what static linters catch.
 </div>
 
 <br/>
-
-## Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Abdullahjaved-82/Abdullahjaved-82/output/github-contribution-grid-snake-dark.svg" />
